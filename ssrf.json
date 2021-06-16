@@ -63,7 +63,16 @@
 "style=",
 "doc=",
 "img=",
-"filename="
+"filename=",
+"key=",
+".json",
+"oauth",
+"api",
+"dashboard",
+"config."
+"=http",
+"&api"
+
 
 ]
 }
